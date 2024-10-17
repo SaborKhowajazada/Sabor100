@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Socially, I am an engaged person who values collaboration and building strong relationships with both colleagues and friends. I believe in the power of community, and helping others is a central part of who I am. By working together, we create the best conditions for innovation and success.
+I'm Sabor from Afghanistan! Socially, I am an engaged person who values collaboration and building strong relationships with both colleagues and friends. I believe in the power of community, and helping others is a central part of who I am. By working together, we create the best conditions for innovation and success.
 
 - 🔭 I’m currently working on a project
 - 🌱 I’m currently learning C++
