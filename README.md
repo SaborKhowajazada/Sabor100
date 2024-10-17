@@ -4,7 +4,6 @@ Socially, I am an engaged person who values collaboration and building strong re
 
 - 🔭 I’m currently working on a project
 - 🌱 I’m currently learning C++
-- 💬 Ask me about HTML and CSS.
 - 📫 How to reach me: sabor.khowajazada@gmail.com
 - ⚡ Fun fact: 2 gold and 1 silver at Boxing-SM in Stockholm (2017).
   
